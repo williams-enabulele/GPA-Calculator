@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GPACalculator.Data\GPACalculator.Data.csproj" />
+    <ProjectReference Include="..\GPACalculator.Model\GPACalculator.Model.csproj" />
+  </ItemGroup>
+
+</Project>
