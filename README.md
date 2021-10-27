@@ -1,7 +1,7 @@
 ### Students GPA Calculator
 **Grading System :**
 The result should be displayed in a tabular form as shown below:
-```
+```c#
 |----------------------------|-----------------------|------------|---------------------|------------------|-------------------|
 
 | COURSE & CODE              | COURSE UNIT           | GRADE      | GRADE-UNIT          | WEIGHT Pt.       | REMARK            |
@@ -39,7 +39,7 @@ where:
 See grading system below:
 
 Score Grade Point Remark
- ```
+ ```c#
 70-100 A 5 Excellent
 
 60-69  B   4 Very Good
