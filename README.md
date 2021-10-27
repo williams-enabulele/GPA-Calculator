@@ -1,15 +1,5 @@
-# week-1-enabsdigital
-week-1-enabsdigital created by GitHub Classroom
-**Week 1 - Task**
-
-**Intro :**
-
-This task is aimed at evaluating your understanding of programing with C# language and the fundamental syntax and structures.
-
-**Challenge**
-
-You are required to write a console application that models a Grade Point Average (GPA) calculator and prints the result.
-
+### Students GPA Calculator
+**Grading System :**
 The result should be displayed in a tabular form as shown below:
 ```
 |----------------------------|-----------------------|------------|---------------------|------------------|-------------------|
@@ -64,20 +54,15 @@ Score Grade Point Remark
 ```
 Task requirements
 
-- [x] All stories should be completed.
-
-- [x] Task should be submitted on or before Wednesday, July 7, 2021.
-
-- [x] Submission should be made to this github classroom link: https://classroom.github.com/a/wgn0luwG
+- [x] All user stories completed.
 
 **Functional requirements**
 
-- [x] The calculator should have a grading system that grades the score dynamically
+- [x] The calculator has a grading system that grades the score dynamically
 
 Task Story
 
 As a ** User **
-
 - [x] I want to be able to input course name and code, course unit, course score; one after the other
 
 - [x] so that the calculator will calculate the score grade and record it before the total result and GPA is displayed.
